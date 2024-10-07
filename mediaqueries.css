@@ -32,9 +32,9 @@
         margin: 0 5%;
     }
     .section__pic-container {
-        width: 27px;
-        height: 27px;
-        margin: 0 auto 2 rem;
+        width: auto;
+        height: 46vh;
+        justify-content: center;
     }
     .about-containers {
         margin-top: 0;
